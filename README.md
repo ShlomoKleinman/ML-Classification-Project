@@ -23,4 +23,4 @@ DBSCAN.
 
 data/: Folder containing the raw dataset.
 
-script/: Folder with Python Jupyter Notebook for data preprocessing, classification, and clustering.
+Classification+Clustering.ipynb: Python Jupyter Notebook for data preprocessing, classification, and clustering.
