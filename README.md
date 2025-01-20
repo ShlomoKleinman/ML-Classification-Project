@@ -9,16 +9,16 @@ Clustering: Uncover patterns in the dataset by clustering similar accidents toge
 
 Classification Model
 Supervised learning algorithms used for classification include:
-Logistic Regression
-Decision Trees
-Random Forest
-Support Vector Machines (SVM)
-Gradient Boosting
+Logistic Regression,
+Decision Trees,
+Random Forest,
+Support Vector Machines (SVM),
+Gradient Boosting.
 
 Clustering Model
 Unsupervised learning algorithms used for clustering include:
-K-Means Clustering
-DBSCAN
+K-Means Clustering,
+DBSCAN.
 
 Project Structure
 data/: Folder containing the raw dataset.
