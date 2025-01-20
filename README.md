@@ -20,6 +20,7 @@ Unsupervised learning algorithms used for clustering include:
 K-Means Clustering,
 DBSCAN.
 
-Project Structure
+
 data/: Folder containing the raw dataset.
+
 script/: Folder with Python Jupyter Notebook for data preprocessing, classification, and clustering.
